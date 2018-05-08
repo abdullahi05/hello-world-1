@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [abdullahi mohamed](https://github.com/abdullahi05)
+- [abdullahi mohamed hassande](https://github.com/abdullahi05)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
